@@ -2,6 +2,7 @@ import tiktoken
 
 enc=tiktoken.encoding_for_model("gpt-4o")
 
+#examples of encoding and decoding 
 
 text="Hello nokia i am coming"
 
